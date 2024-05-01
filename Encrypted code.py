@@ -85,7 +85,7 @@ def main():
             print("Double Decryption with shifts 1-10: Decrypts the text with all possible combinations of shifts 1-10 for both the first and second shifts.")
             print("Shift value: The number of positions to shift the text.")
         else:
-            print("Invalid choice. Please choose a valid option.")
+            print("Denis Dalbayoba. Please choose a valid option.")
 
 if __name__ == "__main__":
     main()
