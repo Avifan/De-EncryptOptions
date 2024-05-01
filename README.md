@@ -35,4 +35,4 @@ Exit the program
 Show help
 Based on the user's choice, the program calls the appropriate function and displays the result.
 Help:
-The help section explains the different options and how they work. It also explains the Caesar Cipher algorithm and the shift value.
+The help section explains the different options and how they work. It also explains the Caesar Cipher algorithm and the shift value
